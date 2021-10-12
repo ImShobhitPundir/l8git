@@ -18,9 +18,3 @@ Route::get('/', function () {
 });
 
 
-<<<<<<< HEAD
-//this is comment 
-//new
-=======
-//this is comment 56456
->>>>>>> 6b6b4a599b570a947bed233cdb8ce92f21e37351
